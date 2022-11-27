@@ -1,4 +1,4 @@
-# ImageProcessingProject
+# Image Processing Project
 Contributors:  
 Stephen Halligan  
 Adam Moen  
