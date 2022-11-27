@@ -1,5 +1,6 @@
 # Image Processing Project
-Contributors:  
+Contributors: 
+
 Stephen Halligan  
 Adam Moen  
 Edosa Osarenotor  
